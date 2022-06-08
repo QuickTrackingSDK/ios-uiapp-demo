@@ -418,13 +418,13 @@
 	<key>UMeng-UniPlugin-App</key>
 	<dict>
 		<key>appkey</key>
-		<string>44624933</string>
+		<string>您的appkey</string>
 		<key>channel</key>
 		<string></string>
 		<key>enableLog</key>
 		<true/>
 		<key>primaryDomain</key>
-		<string>https://log-api.aplus.emas-poc.com</string>
+		<string>https://您的域名</string>
 		<key>standbyDomain</key>
 		<string></string>
 	</dict>
